@@ -14,7 +14,7 @@ See W1P7
 ### References
 See W1P21-22
 
-### I'm supposed to learn a lot through dealing with all the labs at various respects as following:
+### I'm supposed to learn a lot through dealing with all the labs at various respects:
 
    从感性具体上升到思维抽象，对操作系统工作原理 更深刻、更专业的理解
   
@@ -91,5 +91,13 @@ See W1P10-16(Important!)
 ### Overview of NACHOS code
 See W1P17-22
 
-
+### Preparations for the Labs
+安装Nachos
+• 选择Linux或Unix系统，安装32位GCC开发环境，参照 文档安装Nachos3.4
+• 教学网“讲义资料 - Nachos资源”中有Nachos代码 和安装说明，以及其他一些参考资料和报告模板
+编程准备
+• 选择一种你熟悉并熟练的编程工具
+• 在之前的学习中，相信你已经可以熟练地在Linux下开发程序了。 经过本课的练习，你会有新的认识、新的收获
+• C/C++语言
+\t Nachos3.4使用C++编写，通过阅读和编写Nachos程 序，能让 你对C/C++产生全新的认识
 
