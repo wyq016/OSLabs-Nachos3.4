@@ -5,11 +5,7 @@ This is the project of the course named Labs on Operating Systems at PKU.
 
 ## Class Arrangements
 
-Time: 
-
-## Syllabus
-
-## Introduction
+See W1P3 & Grading？ &
 
 I'm supposed to learn a lot through dealing with all the labs at various respects as following:
 
@@ -29,7 +25,12 @@ The Labs are about:
 
 阅读源代码，理解源代码(!!!)
 
-对现有系统提出修改、完善、扩展的设计方案并编码
+• 掌握操作系统的全局设计
+
+• 掌握操作系统各个重要模块(关键知识点)的设计与实现
+
+
+在已有框架基础上完成一个教学操作系统Nachos ：对现有系统提出修改、完善、扩展的设计方案并编码
 
 重点部分:
 
@@ -42,6 +43,14 @@ The Labs are about:
  存储管理
 
  通信机制与死锁
+
+• 了解MIPS和ARM架构，探讨Nachos在ARM上的移植方案
+
+• 掌握Nachos开发过程中需要使用的环境和工具
+
+• Linux环境、交叉编译工具、调试工具(gdb)
+• 代码辅助阅读工具(ctags、cscope、source insight)
+• 版本控制工具(Git、CVS)
 
 How to do well & learn a lot:
 
@@ -62,3 +71,10 @@ Complete a report
   着重总结自己的心得体会 (阅读源代码及实验过程中遇到问题、解决问题)
 
   可以边做边写，以免忘记
+
+## Syllabus
+
+## Introduction
+### History of NACHOS
+See W1P4
+
