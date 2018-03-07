@@ -3,13 +3,13 @@ PKU-EECS-Lab. on Operating Systems-18Spring-Nachos3.4
 
 This is the project of the course named Labs on Operating Systems at PKU.
 
-# Class Arrangements
+## Class Arrangements
 
 Time: 
 
-# Syllabus
+## Syllabus
 
-# Introduction
+## Introduction
 
 I'm supposed to learn a lot through dealing with all the labs at various respects as following:
 
